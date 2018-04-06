@@ -1,2 +1,1 @@
-# wal
-Write ahead log
+# Write ahead log
